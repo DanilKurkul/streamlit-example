@@ -9,7 +9,7 @@ import streamlit as st
 
 Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
 
-So I'm trying to write something )
+So I'm trying to write something ). And that's here!
 
 If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
 forums](https://discuss.streamlit.io).
